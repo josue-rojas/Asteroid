@@ -1,0 +1,12 @@
+High Score
+1. 1428907
+2. 1374865
+3. 1358898
+4. 1338901
+5. 1152707
+
+Total Asteroids Destroyed: 2325
+Total Ships Destroyed: 57
+
+Total Asteroids Destroyed this round: 24
+Total Ships Destroyed this round: 3
